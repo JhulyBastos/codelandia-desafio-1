@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <div className="w-full h-screen bg-dark-10">
       <Header setInputValue={setInputValue} searchButton={handleSearch} />
-      <div className="flex flex-col justify-center items-center gap-8 mt-16">
+      <div className="flex flex-col justify-center items-center gap-8 mt-16 pb-20">
         {items.length > 0
           ? items.map((news, index) => (
               <NewsCard
