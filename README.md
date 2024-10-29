@@ -1,4 +1,6 @@
-## 💻 O projeto trás algumas notícias e a barra de pesquisa que permite que o usuário pesquise notícias pelo título, palavras-chave, e elementos do texto. O usuário também tem a opção de favoritar as notícias.
+## 💻
+
+## O projeto trás algumas notícias e a barra de pesquisa que permite que o usuário pesquise pelo título, palavras-chave, e elementos do texto. Também tem a opção de favoritar.
 
 ## 🛠️ Tecnologias utilizadas:
 
